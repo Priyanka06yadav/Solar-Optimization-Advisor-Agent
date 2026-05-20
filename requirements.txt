@@ -1,0 +1,10 @@
+google-genai
+requests
+python-dotenv
+pandas
+numpy
+ipython
+jupyter
+notebook
+matplotlib
+tabulate
