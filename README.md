@@ -41,6 +41,12 @@ The system:
 
 The result is a transparent and personalized solar feasibility assessment generated through a single interaction.
 
+## Project Demo
+
+Click the image below to watch the full walkthrough of the Solar Optimization Advisor Agent.
+
+[![Solar Optimization Advisor Demo](https://img.youtube.com/vi/KAnArVnp5LY&t/maxresdefault.jpg)](https://www.youtube.com/watch?v=KAnArVnp5LY&t)
+
 ## Key Features
 
 - Natural language parameter extraction
