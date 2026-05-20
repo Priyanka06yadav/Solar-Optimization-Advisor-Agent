@@ -43,8 +43,7 @@ The result is a transparent and personalized solar feasibility assessment genera
 
 ## Project Demo
 
-![Demo]([screenshots/demo.gif](https://github.com/Priyanka06yadav/Solar-Optimization-Advisor-Agent/blob/main/images/6f37f1ec76ad7489834aa0f3b46da4fd.png))
-
+![Demo](images/6f37f1ec76ad7489834aa0f3b46da4fd.png)
 👉 Full Video: https://www.youtube.com/watch?v=KAnArVnp5LY&t
 
 ## Key Features
