@@ -43,9 +43,9 @@ The result is a transparent and personalized solar feasibility assessment genera
 
 ## Project Demo
 
-Click the image below to watch the full walkthrough of the Solar Optimization Advisor Agent.
+![Demo](screenshots/demo.gif)
 
-[![Solar Optimization Advisor Demo](https://img.youtube.com/vi/KAnArVnp5LY&t/maxresdefault.jpg)](https://www.youtube.com/watch?v=KAnArVnp5LY&t)
+👉 Full Video: https://www.youtube.com/watch?v=KAnArVnp5LY&t
 
 ## Key Features
 
